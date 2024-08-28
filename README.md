@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8994660d-0111-4947-8f90-9d5c5ab250f6)# EX.-NO-1-C-IMPLEMENTATION-OF-HILL-CIPHER
+# EX.-NO-1-C-IMPLEMENTATION-OF-HILL-CIPHER
 
 ## AIM:
 To write a C program to implement the hill cipher substitution techniques.
